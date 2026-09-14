@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220">
+  <circle cx="110" cy="110" r="105" fill="#A8D87F" stroke="#62B34B" stroke-width="3"/>
+  <ellipse cx="110" cy="130" rx="55" ry="60" fill="#62B34B"/>
+  <circle cx="92" cy="100" r="8" fill="#397A35"/>
+  <circle cx="128" cy="100" r="8" fill="#397A35"/>
+  <path d="M88 120 Q110 140 132 120" stroke="#397A35" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M70 75 Q85 55 110 60 Q135 55 150 75" stroke="#397A35" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <circle cx="75" cy="75" r="5" fill="#C69A45"/>
+  <circle cx="145" cy="75" r="5" fill="#C69A45"/>
+  <ellipse cx="110" cy="195" rx="40" ry="8" fill="#397A35" opacity="0.3"/>
+  <text x="110" y="215" text-anchor="middle" font-family="Poppins, sans-serif" font-size="10" fill="#397A35" opacity="0.5">MASCOTA</text>
+</svg>
